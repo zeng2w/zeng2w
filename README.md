@@ -101,10 +101,9 @@ HTML                     2 repos             ████░░░░░░░�
  Last Updated on 30/04/2023 04:21:03 UTC
 <!--END_SECTION:waka-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeng2w&show_icons=true&locale=en&layout=compact" alt="zeng2w" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zeng2w&theme=aura" alt="zeng2w" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeng2w&show_icons=true&locale=en&layout=compact&theme=aura" alt="zeng2w" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en" alt="zeng2w" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeng2w&" alt="zeng2w" /></p>
 
 
