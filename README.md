@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-399%20hrs%202%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-180-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-181-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
@@ -73,16 +73,14 @@ Sunday                   515 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 mins              ████████████░░░░░░░░░░░░░   48.83 % 
-Swift                    2 mins              ██████████░░░░░░░░░░░░░░░   39.83 % 
-Other                    0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Swift                    2 mins              ████████████████████████░   96.68 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🔥 Editors: 
-VS Code                  2 mins              ███████████████░░░░░░░░░░   58.81 % 
-Xcode                    2 mins              ██████████░░░░░░░░░░░░░░░   41.19 % 
+Xcode                    2 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 mins              █████████████████████████   100.00 % 
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +94,7 @@ HTML                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 08/05/2023 04:22:21 UTC
+ Last Updated on 09/05/2023 04:21:30 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
