@@ -73,13 +73,17 @@ Sunday                   515 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      1 hr 23 mins        ██████████████████████░░░   86.05 % 
+CMake                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+Makefile                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 31 mins        ████████████████████████░   95.25 % 
+Xcode                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 36 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +97,7 @@ HTML                     2 repos             ████░░░░░░░�
 
 
 
- Last Updated on 09/01/2024 04:22:33 UTC
+ Last Updated on 10/01/2024 04:23:07 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
