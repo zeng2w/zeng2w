@@ -73,15 +73,13 @@ Sunday                   515 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               6 hrs 27 mins       ████████████████████████░   95.34 % 
-CSS                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 hrs 46 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,7 +93,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 08/03/2024 04:21:16 UTC
+ Last Updated on 09/03/2024 04:19:46 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
