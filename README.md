@@ -38,11 +38,11 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 7 Contributions in the Year 2024
+> 🏆 8 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -73,13 +73,14 @@ Sunday                   515 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               7 mins              █████████████████████████   100.00 % 
+JavaScript               1 hr 2 mins         █████████████████████░░░░   84.95 % 
+Markdown                 11 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 mins              █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +94,7 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 12/03/2024 04:23:50 UTC
+ Last Updated on 13/03/2024 04:20:24 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
