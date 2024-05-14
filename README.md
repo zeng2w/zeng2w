@@ -38,7 +38,7 @@
 
 > 📦 111.2 kB Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2024
+> 🏆 23 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,15 +85,15 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               11 repos            ████████████████░░░░░░░░░   64.71 % 
-Java                     4 repos             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+JavaScript               8 repos             ██████████████░░░░░░░░░░░   57.14 % 
+Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
 
 
- Last Updated on 13/05/2024 04:23:18 UTC
+ Last Updated on 14/05/2024 04:21:41 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
