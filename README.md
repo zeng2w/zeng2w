@@ -85,15 +85,15 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             ██████████████░░░░░░░░░░░   57.14 % 
-Java                     4 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+JavaScript               7 repos             █████████████░░░░░░░░░░░░   53.85 % 
+Java                     4 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
 
 
 
- Last Updated on 26/01/2025 04:24:49 UTC
+ Last Updated on 27/01/2025 04:27:44 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
