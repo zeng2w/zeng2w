@@ -28,7 +28,7 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
@@ -36,9 +36,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 111.7 kB Used in GitHub's Storage 
+> 📦 111.8 kB Used in GitHub's Storage 
  > 
-> 🏆 27 Contributions in the Year 2026
+> 🏆 28 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,21 +49,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-🌆 Daytime                764 commits         █████████░░░░░░░░░░░░░░░░   34.68 % 
-🌃 Evening                1130 commits        █████████████░░░░░░░░░░░░   51.29 % 
-🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+🌞 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+🌆 Daytime                766 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌃 Evening                1130 commits        █████████████░░░░░░░░░░░░   51.25 % 
+🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-Tuesday                  370 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Friday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Saturday                 326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
-Sunday                   517 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
+Monday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Tuesday                  370 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
+Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Friday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Saturday                 326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Sunday                   517 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
 ```
 
 
@@ -98,7 +98,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 05:18:28 UTC
+ Last Updated on 07/02/2026 05:09:03 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
