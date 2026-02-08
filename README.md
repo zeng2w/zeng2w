@@ -28,17 +28,17 @@
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-621%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.46%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 111.8 kB Used in GitHub's Storage 
+> 📦 111.6 kB Used in GitHub's Storage 
  > 
-> 🏆 28 Contributions in the Year 2026
+> 🏆 30 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,21 +49,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                241 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-🌆 Daytime                766 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
-🌃 Evening                1130 commits        █████████████░░░░░░░░░░░░   51.25 % 
-🌙 Night                  68 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+🌞 Morning                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+🌆 Daytime                762 commits         █████████░░░░░░░░░░░░░░░░   34.70 % 
+🌃 Evening                1125 commits        █████████████░░░░░░░░░░░░   51.23 % 
+🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   206 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Tuesday                  370 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Wednesday                257 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Friday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-Saturday                 326 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Sunday                   517 commits         ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Monday                   205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Wednesday                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Friday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Saturday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Sunday                   516 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
 ```
 
 
@@ -73,17 +73,17 @@ Sunday                   517 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue.js                   20 hrs 18 mins      ████████████████████░░░░░   81.11 % 
-JavaScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Java                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Vue.js                   23 hrs 7 mins       ████████████████████░░░░░   81.07 % 
+JavaScript               3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Java                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 2 mins       █████████████████████████   100.00 % 
+VS Code                  28 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      25 hrs 2 mins       █████████████████████████   100.00 % 
+Mac                      28 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +98,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2026 05:09:03 UTC
+ Last Updated on 08/02/2026 05:26:32 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
