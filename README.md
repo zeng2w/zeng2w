@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -73,17 +73,17 @@ Sunday                   516 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue.js                   15 hrs 6 mins       ████████████████████░░░░░   78.97 % 
-JavaScript               2 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-JSON                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Bash                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Java                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Vue.js                   10 hrs 49 mins      █████████████████████░░░░   85.62 % 
+JavaScript               1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Java                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 38 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      19 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,7 +98,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/02/2026 05:27:35 UTC
+ Last Updated on 13/02/2026 05:24:32 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
