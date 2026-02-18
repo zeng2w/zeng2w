@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-625%20hrs%2050%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.45%20million%20lines%20of%20code-blue?style=flat)
 
@@ -46,44 +46,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                243 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-🌆 Daytime                762 commits         █████████░░░░░░░░░░░░░░░░   34.70 % 
-🌃 Evening                1125 commits        █████████████░░░░░░░░░░░░   51.23 % 
-🌙 Night                  66 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
-Tuesday                  367 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-Wednesday                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Thursday                 298 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Friday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-Saturday                 328 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-Sunday                   516 commits         ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-Vue.js                   1 hr 1 min          ███████████████░░░░░░░░░░   58.80 % 
-JavaScript               38 mins             █████████░░░░░░░░░░░░░░░░   36.60 % 
-Java                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-
-🔥 Editors: 
-VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -96,7 +58,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/02/2026 05:24:50 UTC
+ Last Updated on 18/02/2026 05:26:23 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
