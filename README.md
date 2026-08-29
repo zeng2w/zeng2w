@@ -75,40 +75,40 @@ Sunday                   522 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               5 hrs 15 mins       ███████████████░░░░░░░░░░   59.71 % 
-Vue                      1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-JSON                     56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Bash                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+JavaScript               2 hrs 4 mins        ████████████████████░░░░░   80.29 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+Vue                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🔥 Editors: 
-Codex Vscode             7 hrs 22 mins       █████████████████████░░░░   83.72 % 
-VS Code                  1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Codex Vscode             2 hrs 8 mins        █████████████████████░░░░   82.82 % 
+VS Code                  26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 
 💻 Operating System: 
-Mac                      8 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 48 mins (99.84%)
+⏱ AI Coding Time: 2 hrs 35 mins (100.0%)
 
-✍️ 6,381 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 1,926 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 7,167,297 Input Tokens, 620,310 Output Tokens
+🔤 2,449,283 Input Tokens, 174,149 Output Tokens
 
-💵 $71.69 Estimated AI Cost This Week
+💵 $19.65 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 129 AI Prompts
+🧠 6 AI Sessions, 40 AI Prompts
 
-GPT                      6,607 lines         █████████████████████████   100.00 % 
+GPT                      1,956 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 10,763 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 11,160 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,7 +123,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 16:30:47 UTC
+ Last Updated on 29/08/2026 10:58:36 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
