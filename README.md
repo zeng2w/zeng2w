@@ -32,7 +32,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2017%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -75,38 +75,36 @@ Sunday                   522 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 4 mins        ████████████████████░░░░░   80.29 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Vue                      11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
-Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+JavaScript               1 hr 35 mins        ███████████████████████░░   90.53 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Vue                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 8 mins        █████████████████████░░░░   82.82 % 
-VS Code                  26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Codex Vscode             1 hr 35 mins        ███████████████████████░░   90.43 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 💻 Operating System: 
-Mac                      2 hrs 35 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 35 mins (100.0%)
+⏱ AI Coding Time: 1 hr 45 mins (100.0%)
 
-✍️ 1,926 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 819 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,449,283 Input Tokens, 174,149 Output Tokens
+🔤 1,567,483 Input Tokens, 92,990 Output Tokens
 
-💵 $19.65 Estimated AI Cost This Week
+💵 $10.89 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 40 AI Prompts
+🧠 4 AI Sessions, 27 AI Prompts
 
-GPT                      1,956 lines         █████████████████████████   100.00 % 
+GPT                      842 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,160 characters per prompt
+📚 Verbose Prompter — average 8,747 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -123,7 +121,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2026 10:58:36 UTC
+ Last Updated on 30/08/2026 09:52:54 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
