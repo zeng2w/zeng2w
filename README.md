@@ -75,38 +75,19 @@ Sunday                   522 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               43 mins             █████████████████████░░░░   82.22 % 
-Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Vue                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             45 mins             █████████████████████░░░░   85.19 % 
-VS Code                  7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      52 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 52 mins (100.0%)
-
-✍️ 339 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 710,899 Input Tokens, 61,008 Output Tokens
-
-💵 $7.64 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 15 AI Prompts
-
-GPT                      356 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,283 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +102,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 10:45:05 UTC
+ Last Updated on 01/09/2026 09:20:03 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
