@@ -34,13 +34,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.54%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.52%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 112.1 kB Used in GitHub's Storage 
+> 📦 111.9 kB Used in GitHub's Storage 
  > 
-> 🏆 70 Contributions in the Year 2026
+> 🏆 82 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +51,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                251 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-🌆 Daytime                806 commits         █████████░░░░░░░░░░░░░░░░   34.67 % 
-🌃 Evening                1195 commits        █████████████░░░░░░░░░░░░   51.40 % 
-🌙 Night                  73 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+🌞 Morning                264 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+🌆 Daytime                801 commits         █████████░░░░░░░░░░░░░░░░   34.54 % 
+🌃 Evening                1185 commits        █████████████░░░░░░░░░░░░   51.10 % 
+🌙 Night                  69 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   209 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Wednesday                284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Thursday                 330 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   265 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Saturday                 341 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
-Sunday                   522 commits         ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Monday                   227 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+Tuesday                  371 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Wednesday                267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Thursday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Friday                   267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+Saturday                 342 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Sunday                   523 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
 ```
 
 
@@ -75,19 +75,37 @@ Sunday                   522 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 22 mins        ███████████████░░░░░░░░░░   60.09 % 
+Vue                      54 mins             ██████████░░░░░░░░░░░░░░░   39.91 % 
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+Codex Vscode             1 hr 32 mins        █████████████████░░░░░░░░   67.13 % 
+VS Code                  45 mins             ████████░░░░░░░░░░░░░░░░░   32.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 11 mins (96.18%)
+
+✍️ 1,316 lines written by AI, 289 lines written by hand (81.99% AI-written)
+
+🔤 1,239,327 Input Tokens, 139,277 Output Tokens
+
+💵 $21.85 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 43 AI Prompts
+
+GPT                      1,322 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 81.99% of written lines came from AI
+📚 Verbose Prompter — average 15,303 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 17.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -102,7 +120,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2026 09:50:08 UTC
+ Last Updated on 22/09/2026 09:13:47 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
