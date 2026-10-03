@@ -75,37 +75,37 @@ Sunday                   525 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Vue                      4 hrs 17 mins       █████████████████░░░░░░░░   66.84 % 
-JavaScript               2 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   31.62 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+JavaScript               51 mins             █████████████░░░░░░░░░░░░   51.02 % 
+Vue                      43 mins             ███████████░░░░░░░░░░░░░░   43.09 % 
+Other                    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs 4 mins        ████████████████████░░░░░   78.64 % 
-VS Code                  1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Codex Vscode             1 hr 7 mins         █████████████████░░░░░░░░   66.01 % 
+VS Code                  34 mins             ████████░░░░░░░░░░░░░░░░░   33.99 % 
 
 💻 Operating System: 
-Mac                      6 hrs 25 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 40 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 24 mins (99.81%)
+⏱ AI Coding Time: 1 hr 40 mins (100.0%)
 
-✍️ 982 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 249 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,426,969 Input Tokens, 182,697 Output Tokens
+🔤 1,040,809 Input Tokens, 53,164 Output Tokens
 
-💵 $70.94 Estimated AI Cost This Week
+💵 $32.19 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 74 AI Prompts
+🧠 8 AI Sessions, 27 AI Prompts
 
-GPT                      1,014 lines         █████████████████████████   100.00 % 
+GPT                      265 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 8,993 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📚 Verbose Prompter — average 8,858 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -121,7 +121,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 10:25:46 UTC
+ Last Updated on 03/10/2026 09:47:15 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
