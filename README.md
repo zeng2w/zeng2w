@@ -75,38 +75,36 @@ Sunday                   525 commits         ██████░░░░░�
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               21 mins             ████████████████░░░░░░░░░   65.99 % 
-Other                    5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Vue                      5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Other                    5 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             21 mins             ████████████████░░░░░░░░░   62.02 % 
-VS Code                  13 mins             █████████░░░░░░░░░░░░░░░░   37.98 % 
+VS Code                  4 mins              █████████████████░░░░░░░░   66.53 % 
+Codex Vscode             2 mins              ████████░░░░░░░░░░░░░░░░░   33.47 % 
 
 💻 Operating System: 
-Mac                      33 mins             █████████████████████████   100.00 % 
+Mac                      5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 33 mins (100.0%)
+⏱ AI Coding Time: 5 mins (100.0%)
 
-✍️ 97 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 627,480 Input Tokens, 20,084 Output Tokens
+🔤 271,014 Input Tokens, 5,023 Output Tokens
 
-💵 $23.11 Estimated AI Cost This Week
+💵 $13.42 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 17 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
-GPT                      104 lines           █████████████████████████   100.00 % 
+GPT                      7 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 11,977 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📚 Verbose Prompter — average 10,090 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +119,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 10:31:11 UTC
+ Last Updated on 05/10/2026 11:21:05 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zeng2w&show_icons=true&locale=en&theme=aura" alt="zeng2w" /></p>
